@@ -1,7 +1,7 @@
 # cs50
 All my stuff related to Harvard's CS50 course on edX
 
-This repo contains all my work for Harvards CS course done thorugh edX platform. 
+This repo contains all my work for Harvards CS course done so far. 
 
 Pset0 (Week 0): A simple game similar to the Space War Game developed with Scratch.
 
